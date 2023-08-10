@@ -8,7 +8,7 @@ import re
 
 # Set mail server connection vars
 user = 'cnprojects12345@gmail.com'
-passwd = 'gdhpzdpkkkujjczk'  # actual password:CNprojectS12345
+passwd = 'gdhpzdpkkkujjczk'  
 server = 'imap.gmail.com'
 
 
